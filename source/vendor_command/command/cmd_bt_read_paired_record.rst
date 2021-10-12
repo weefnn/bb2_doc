@@ -15,7 +15,7 @@ CMD_BT_READ_PAIRED_RECORD
    * - CMD_BT_READ_PAIRED_RECORD
      - 0x0001
      - type
-     - :ref:`EVENT_REPLY_PAIRED_RECORD_ref`
+     - :ref:`EVENT_BT_REPLY_PAIRED_RECORD_ref`
 
 Description
 ***********

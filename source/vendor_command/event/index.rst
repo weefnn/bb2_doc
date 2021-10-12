@@ -36,8 +36,14 @@ summary of event.
    * - 0x0014
      - :ref:`EVENT_BT_LINK_STATUS_ref`
      - Y
+   * - 0x0020
+     - :ref:`EVENT_AUDIO_VOL_CHANGE_ref`
+     - Y
    * - 0x0300
      - :ref:`EVENT_SCO_STATE_ref`
+     - Y
+   * - 0x0923
+     - :ref:`EVENT_INQUIRY_STATE_ref`
      - Y
 
 .. toctree::
@@ -51,4 +57,7 @@ summary of event.
    event_audio_call_status.rst
    event_audio_player_status.rst
    event_bt_link_status.rst
+   event_audio_vol_change.rst
    event_sco_state.rst
+   event_inquiry_state.rst
+   

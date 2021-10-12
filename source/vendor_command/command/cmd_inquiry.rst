@@ -14,7 +14,7 @@ CMD_INQUIRY
    * - CMD_INQUIRY
      - 0x0321
      - Action, TimeOut
-     - :ref:`EVENT_INQUIRY_STATE`
+     - :ref:`EVENT_INQUIRY_STATE_ref`
 
 Description
 ***********

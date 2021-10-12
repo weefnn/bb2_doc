@@ -14,7 +14,7 @@ CMD_BT_DISCONNECT
    * - CMD_BT_DISCONNECT
      - 0x0003
      - bd_addr, flag
-     - :ref:`EVENT_BT_DISCONNECT_ref`
+     - :ref:`EVENT_BT_DISCONNECT_STATUS_ref`
 
 Description
 ***********

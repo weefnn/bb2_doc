@@ -14,7 +14,7 @@ CMD_BT_CREATE_CONNECTION
    * - CMD_BT_CREATE_CONNECTION
      - 0x0002
      - profile, bd_addr
-     - :ref:`EVENT_BT_CONNECT_STATUS`
+     - :ref:`EVENT_BT_CONNECT_STATUS_ref`
 
 Description
 ***********
